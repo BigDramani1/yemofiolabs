@@ -7,9 +7,9 @@
 
 // Heroku Database credentials
 define('SERVER', 'us-cdbr-east-06.cleardb.net');
-define('USERNAME','b9cd28c7abc157');
-define('PASSWORD', 'd5fb23f2');
-define('DATABASE', 'heroku_0486fd9877d15e7');
+define('USERNAME','baaf0f7baec928');
+define('PASSWORD', 'c82f9b0d');
+define('DATABASE', 'heroku_f58a2828666328');
 
 ?>
 
